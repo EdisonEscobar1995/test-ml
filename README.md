@@ -19,6 +19,12 @@ git clone https://github.com/EdisonEscobar1995/test-ml.git
 
 ### Frontend:
 
+#### Navigate project
+```
+cd test-ml
+```
+
+
 #### Install dependencies:
 
 ```
