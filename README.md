@@ -38,6 +38,10 @@ npm start
 
 ### Backend:
 
+```
+Inside the 'test-ml' folder
+```
+
 #### Navigate project - server
 ```
 cd server
