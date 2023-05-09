@@ -69,6 +69,7 @@ npm start
 ```
 src
 |-- components
+|   |-- Breadcrumb.jsx
 |   |-- Header.jsx
 |   |-- ProductDetail.jsx
 |   |-- Results.jsx
