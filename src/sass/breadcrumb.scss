@@ -1,0 +1,28 @@
+@import "../assets/sass/variables";
+
+.nav-breadcrum {
+  width: 75%;
+
+  ol.breadcrumb {
+    margin: 16px 0;
+    .breadcrumb-item + .breadcrumb-item::before {
+      content: ">";
+    }
+    .breadcrumb-item {
+      a {
+        text-decoration: none;
+        color: $c-gray-nine;
+        font-size: 15px;
+        font-weight: 400;
+        :focus {
+          color: $c-gray-nine;
+        }
+      }
+    }
+    li:last-child {
+      a {
+        color: $c-gray-six;
+      }
+    }
+  }
+}
